@@ -1,0 +1,2 @@
+-215:AssertionFailed := opencv couldnt find a media file at that location specified
+                        mainly happens when video runs out of frames before breaking the loop
